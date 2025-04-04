@@ -9,3 +9,13 @@
 
 
 /* Nav Styles */
+nav{
+    display: flex;
+}
+.nav-title{
+    font-size: 45px;
+    font-weight: 800;
+}
+.span1{
+    color: #FD6E0A;
+}
