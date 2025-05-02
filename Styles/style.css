@@ -157,3 +157,54 @@ main{
     font-size: 20px;
     font-weight: bold;
 }
+
+
+/* What to do Styles */
+
+.what{
+    margin-bottom: 130px;
+    
+}
+.whatdo-title{
+    margin-top: 130px;
+    font-size: 35px;
+    font-weight: bold;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.whatdo-description{
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size: 18px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.what-items{
+    display: flex;
+    gap: 25px;
+}
+
+.what-item{
+    border-radius: 5px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+.what-icon{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.what-title{
+    margin-top: 30px;
+    margin-left: 30px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.what-descriotion{
+    margin-top: 30px;
+    margin-left: 30px;
+    font-size: 16px;
+    padding-bottom: 30px;
+}
